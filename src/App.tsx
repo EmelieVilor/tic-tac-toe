@@ -1,6 +1,6 @@
 import './App.css'
 import Header from './Components/Header'
-import Game from './Components/Game'
+import Board from './Components/Board'
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <>
     <Header/>
 
-    <Game/>
+   <Board/>
 
     </>
   )
